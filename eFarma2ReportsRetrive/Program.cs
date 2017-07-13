@@ -24,7 +24,7 @@ namespace eFarma2ReportsRetrive
         }
         
         /// <summary>
-        /// 
+        /// Перебираем все репорты в базе и выгружаем по одной штуке
         /// </summary>
         /// <param name="connection">проинициализированое подключение к базе. Строка подключения в .config</param>
         private static void ExportReports(SqlConnection connection)
