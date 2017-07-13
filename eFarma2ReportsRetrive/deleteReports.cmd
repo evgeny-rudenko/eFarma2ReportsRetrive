@@ -1,0 +1,2 @@
+﻿del *.dll
+del .*cert
